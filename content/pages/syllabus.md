@@ -24,12 +24,57 @@ Grading
 
 There are four graded requirements in this course, weighted as follows:
 
-| Activities | Percentages |
-| --- | --- |
-| Written assignment with feedback and revision (conference paper, journal article, or grant proposal) | 30% |
-| Oral presentation with option to re-do (conference presentation or job talk) | 30% |
-| Manuscript Review (for conference or journal) | 15% |
-| Class Participation (including other assigned exercises) | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written assignment with feedback and revision (conference paper, journal article, or grant proposal)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentation with option to re-do (conference presentation or job talk)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Manuscript Review (for conference or journal)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation (including other assigned exercises)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 We will discuss and in some cases do exercises (included in your class participation grade) around giving "elevator pitches" about your research, conducting a job search, teaching, and interviewing for field work.
 
